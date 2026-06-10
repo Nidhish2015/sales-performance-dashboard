@@ -72,15 +72,17 @@ The dashboard enables users to:
 
 ## Dashboard Overview
 
-C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-06-10 163500.png
+<img width="1303" height="735" alt="Screenshot 2026-06-10 163500" src="https://github.com/user-attachments/assets/80e100af-3bd9-440a-aa5f-66760556afc5" />
+
 
 ## Batting Analysis
 
-"C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-06-10 163500.png"
+<img width="1379" height="731" alt="Screenshot 2026-06-10 163518" src="https://github.com/user-attachments/assets/f69d06e3-f542-4ec0-93d6-2432703eef82" />
 
 ## Bowling Analysis
+<img width="1365" height="731" alt="Screenshot 2026-06-10 163536" src="https://github.com/user-attachments/assets/99db228f-aa96-4391-97a8-86ecd930a7bd" />
 
-C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-06-10 163536.png
+
 ---
 
 # 📈 Key Insights
