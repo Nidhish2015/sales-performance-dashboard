@@ -150,23 +150,4 @@ Time Period: 2008–2022
 
 ---
 
-# 🔗 Project Links
 
-### GitHub Repository
-
-(Add Repository Link)
-
-
-
-
-# ⭐ Key Learning Outcomes
-
-* Built interactive dashboards using Power BI.
-* Applied SQL for data extraction and analysis.
-* Performed data cleaning and transformation.
-* Created KPI-driven visualizations.
-* Generated actionable insights from large datasets.
-
----
-
-## If you found this project useful, consider giving it a ⭐ on GitHub.
